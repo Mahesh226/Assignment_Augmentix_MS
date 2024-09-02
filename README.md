@@ -1,10 +1,4 @@
 ~~~~Installation
-Run the following command to clone the repository
-
-
-git clone https://github.com/Mahesh226/Assignment_Augmentix_MS.git
-
-
 
 Go to frontend and backend directory to install packages
 
@@ -39,4 +33,8 @@ nodemon server
 cd frontend
 npm start
 
+
+
+
+git clone https://github.com/Mahesh226/Assignment_Augmentix_MS.git
 
