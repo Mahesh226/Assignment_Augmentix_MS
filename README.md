@@ -2,7 +2,7 @@
 Run the following command to clone the repository
 
 
-git clone 
+git clone https://github.com/Mahesh226/Assignment_Augmentix_MS.git
 
 
 
