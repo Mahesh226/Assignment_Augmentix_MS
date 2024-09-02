@@ -35,6 +35,17 @@ npm start
 
 
 
+#This is my Mern Stack Devlopemnt Assignment for AUGMENTIX.
+
+Technology I Used
+HTML
+CSS
+JavaScript
+Mongo DB
+Express.js
+React.js
+Node.js
+
 
 git clone https://github.com/Mahesh226/Assignment_Augmentix_MS.git
 
